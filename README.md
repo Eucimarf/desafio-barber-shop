@@ -197,6 +197,7 @@ Este projeto foi desenvolvido como parte de um curso de desenvolvimento backend 
 <!--  -->
 
 <br/>
-<br/> 
+<br/>
+
 **Ano:** 2025  
 **Tecnologias Usadas:** Java, Spring, Angular, PostgreSQL, Flyway, Docker
